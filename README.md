@@ -10,11 +10,8 @@ I like understanding how systems break: finding the weak point, proving it, and 
 
 ### 🔍 Featured work
 
-**[CTF Write-ups](https://github.com/YOUR-USERNAME/ctf-writeups)**
+**[CTF Write-ups](https://github.com/anshuL937/ctf-writeups)**
 OSINT geolocation, LSB steganography, username pivoting and web recon. Each write-up shows the full method, including the decoy leads I rejected and how I verified answers before submitting.
-
-**[Honeypot + SIEM Log Integrity](https://github.com/YOUR-USERNAME/honeypot-siem-integrity)**
-Suricata and a Cowrie SSH honeypot, with SHA-256 and AES protecting logs against tampering and a correlation engine linking network alerts to attacker activity on the host.
 
 **Research: Poisoning Attacks Against Text-to-Image Retrieval Systems**
 Co-authored review and critical analysis of data-poisoning attacks on AI retrieval systems.
@@ -29,7 +26,7 @@ Co-authored review and critical analysis of data-poisoning attacks on AI retriev
 | Forensics & analysis | CyberChef · exiftool · steganography (LSB) |
 | Detection & monitoring | Suricata · Cowrie |
 | Platforms | Kali Linux · Parrot OS |
-| Languages | Python |
+| Languages | Python · Bash · SQL |
 
 ---
 
